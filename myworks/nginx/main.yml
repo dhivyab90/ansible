@@ -3,4 +3,4 @@
   become: true
   gather_facts: yes
   tasks:
-    include_tasks: tasks/nginxinstall.yml
+    include_tasks: nginxinstall.yml
