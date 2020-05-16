@@ -42,4 +42,4 @@ tasks:
       src: /home/ansible/scripts.tgz
       dest: /mnt/storage/
 
-#ansible-playbook /home/ansible/bootstrap.      
+#ansible-playbook /home/ansible/bootstrap      
